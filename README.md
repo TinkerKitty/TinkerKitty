@@ -1,4 +1,4 @@
--  Hi, I’m Amanda, and this is just my spot to keep my pet projects.
+-  Hi, I’m Amanda, and this is just my spot to keep my pet projects. They will become public if I'm ever pleased with the result.
 -  I’m interested in a lot of things, but programming languages have caught my attention.
 -  I’m currently expanding HTML and might pick up Python soon.
 -  If I didn't contact you first with my personal email, you can message me on LinkedIn at www.linkedin.com/in/copeamanda 
